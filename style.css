@@ -1,0 +1,31 @@
+.bg-style {}
+
+.col-md-6 p {
+    color: gray;
+}
+
+.button-style {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.card {
+    padding: 20px 40px;
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.heading {
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.heading h6 {
+    color: #FFCA1C;
+}
